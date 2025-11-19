@@ -1,1 +1,1 @@
-# UWP
+# Universal Windows Platform (UWP)
